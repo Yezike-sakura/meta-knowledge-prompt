@@ -6,7 +6,7 @@
 
 **[💬 复制聊天版](#-聊天版复制使用)**　 **[🧩 安装 Agent Skill](#-agent-skill安装使用)**
 
-![把专业方法写进提示词。元知识提示词助手 v3.1。](assets/hero-readme.png)
+![场景索引：网页用视觉层级，PPT 用结论先行，口播用信息前置，产品图用单变量对照。](assets/hero-readme.png)
 
 ## 🌐 看一次改法
 
@@ -127,3 +127,9 @@ cp -R meta-knowledge-prompt-source/skills/meta-knowledge-prompt .agents/skills/
 ## 🙏 来源与致谢
 
 这个项目来自《元知识》口播里的问题：AI 已经做出东西了，怎样把自己说不清的「再改改」变成具体要求？提示词技巧的分享受到「大师的 AI 小灶」启发。[选题参考](https://v.douyin.com/bt7GF6xwIPA/)
+
+## 📄 许可证
+
+本项目采用 [MIT License](LICENSE)。你可以免费使用、修改和再发布。分发包含本项目全部或实质性部分的副本时，请保留原版权声明和许可证文本。
+
+Copyright (c) 2026 Yezike-sakura
